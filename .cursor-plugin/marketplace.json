@@ -452,6 +452,11 @@
         "grokbot": "0.52.0",
         "sand": "0.52.0"
       }
+    },
+    {
+      "name": "commsync",
+      "source": "third_party/commsync",
+      "description": "Read, search, and send SMS and email from one shared inbox."
     }
   ]
 }
