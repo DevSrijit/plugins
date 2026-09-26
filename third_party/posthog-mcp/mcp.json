@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "tinyfish": {
+    "posthog": {
       "type": "http",
-      "url": "https://agent.tinyfish.ai/mcp",
+      "url": "https://mcp.posthog.com/mcp",
       "placement": "server"
     }
   }

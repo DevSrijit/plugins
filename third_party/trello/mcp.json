@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "tinyfish": {
+    "trello": {
       "type": "http",
-      "url": "https://agent.tinyfish.ai/mcp",
+      "url": "https://mcp.trello.com/v1",
       "placement": "server"
     }
   }

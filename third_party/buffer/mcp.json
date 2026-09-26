@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "tinyfish": {
+    "buffer": {
       "type": "http",
-      "url": "https://agent.tinyfish.ai/mcp",
+      "url": "https://mcp.buffer.com/mcp",
       "placement": "server"
     }
   }

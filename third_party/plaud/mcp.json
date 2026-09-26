@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "tinyfish": {
+    "plaud": {
       "type": "http",
-      "url": "https://agent.tinyfish.ai/mcp",
+      "url": "https://mcp.plaud.ai/mcp",
       "placement": "server"
     }
   }
